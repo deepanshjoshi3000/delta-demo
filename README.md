@@ -4,3 +4,6 @@ Author: Deepansh Joshi
 
 # Student
 Delta Student
+
+# Class
+Hey! Welcome to my class!
